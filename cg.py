@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# requires <INPUT FILE REQUIREMENTS HERE>
 # LCD1602 based rasberry pi compliment generator based on random input
 import LCD1602
 import time
